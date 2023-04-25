@@ -1,3 +1,3 @@
-import system
+import storage
 
-system.disable_usb_device()
+storage.disable_usb_device()
